@@ -1,0 +1,13 @@
+region,segment,orders,revenue,avg_order_value
+East,Consumer,1472,1544277.45,1049.1
+North,Consumer,1458,1300838.31,892.21
+West,Consumer,1272,887691.67,697.87
+South,Consumer,997,704218.24,706.34
+North,Corporate,662,630439.56,952.33
+East,Corporate,565,605368.58,1071.45
+West,Corporate,591,443287.66,750.06
+South,Corporate,551,418772.63,760.02
+North,Home Office,458,407382.83,889.48
+East,Home Office,323,317243.31,982.18
+South,Home Office,323,266633.56,825.49
+West,Home Office,328,246716.07,752.18

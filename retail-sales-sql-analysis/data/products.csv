@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Electronics Item 1,Electronics,802.42,551.18
+2,Electronics Item 2,Electronics,654.26,499.52
+3,Electronics Item 3,Electronics,323.91,237.72
+4,Electronics Item 4,Electronics,744.19,448.4
+5,Electronics Item 5,Electronics,284.29,233.11
+6,Electronics Item 6,Electronics,681.26,468.26
+7,Electronics Item 7,Electronics,826.88,500.29
+8,Electronics Item 8,Electronics,546.26,364.94
+9,Electronics Item 9,Electronics,855.46,532.02
+10,Electronics Item 10,Electronics,793.84,501.81
+11,Electronics Item 11,Electronics,595.03,379.37
+12,Electronics Item 12,Electronics,831.36,631.35
+13,Furniture Item 1,Furniture,522.34,321.33
+14,Furniture Item 2,Furniture,375.83,318.6
+15,Furniture Item 3,Furniture,413.81,351.16
+16,Furniture Item 4,Furniture,108.98,63.38
+17,Furniture Item 5,Furniture,550.59,356.67
+18,Furniture Item 6,Furniture,348.6,218.16
+19,Furniture Item 7,Furniture,383.88,264.36
+20,Furniture Item 8,Furniture,106.85,81.03
+21,Furniture Item 9,Furniture,539.83,358.63
+22,Furniture Item 10,Furniture,537.41,433.55
+23,Furniture Item 11,Furniture,313.87,173.64
+24,Furniture Item 12,Furniture,133.4,110.07
+25,Office Supplies Item 1,Office Supplies,21.65,16.77
+26,Office Supplies Item 2,Office Supplies,30.63,17.47
+27,Office Supplies Item 3,Office Supplies,34.26,21.33
+28,Office Supplies Item 4,Office Supplies,57.15,33.84
+29,Office Supplies Item 5,Office Supplies,49.76,39.93
+30,Office Supplies Item 6,Office Supplies,12.72,7.06
+31,Office Supplies Item 7,Office Supplies,8.73,5.57
+32,Office Supplies Item 8,Office Supplies,33.48,22.34
+33,Office Supplies Item 9,Office Supplies,7.42,5.78
+34,Office Supplies Item 10,Office Supplies,41.61,24.8
+35,Office Supplies Item 11,Office Supplies,23.41,14.4
+36,Office Supplies Item 12,Office Supplies,4.96,3.73
+37,Clothing Item 1,Clothing,44.18,33.53
+38,Clothing Item 2,Clothing,127.93,101.51
+39,Clothing Item 3,Clothing,101.54,77.67
+40,Clothing Item 4,Clothing,136.1,90.8
+41,Clothing Item 5,Clothing,56.62,32.03
+42,Clothing Item 6,Clothing,15.63,12.22
+43,Clothing Item 7,Clothing,118.56,98.24
+44,Clothing Item 8,Clothing,65.58,40.76
+45,Clothing Item 9,Clothing,27.34,18.5
+46,Clothing Item 10,Clothing,148.55,96.73
+47,Clothing Item 11,Clothing,40.94,30.73
+48,Clothing Item 12,Clothing,44.78,36.48
+49,Groceries Item 1,Groceries,32.28,25.8
+50,Groceries Item 2,Groceries,8.38,5.03
+51,Groceries Item 3,Groceries,17.8,10.37
+52,Groceries Item 4,Groceries,14.43,10.37
+53,Groceries Item 5,Groceries,9.2,5.63
+54,Groceries Item 6,Groceries,22.58,18.78
+55,Groceries Item 7,Groceries,6.59,4.05
+56,Groceries Item 8,Groceries,15.55,9.36
+57,Groceries Item 9,Groceries,17.28,11.14
+58,Groceries Item 10,Groceries,16.79,11.55
+59,Groceries Item 11,Groceries,4.51,3.58
+60,Groceries Item 12,Groceries,26.7,17.64
